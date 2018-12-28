@@ -45,7 +45,7 @@
 ## Configuration: Ubuntu 16 LTS x86_64/Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
 
 ### C (gcc version 7.3.0/Clang)
-| Author | anguage/Type | Options | Elapsed time
+| Author | Language/Type | Options | Elapsed time
 ------|-------|---------|--------------
 | Siemargl | C/Raytracer_handofdos2 | -O3 -march=native -m64 -msse4.2 -ffast-math |15,028s
 | Siemargl | C/Raytracer_handofdosavx2 | -O3 -march=native -m64 -msse4.2 -ffast-math -DAVX_VERSION | 14,983s
